@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277248302352",
+    "project_id": "science-f984f",
+    "storage_bucket": "science-f984f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277248302352:android:8c0cdc5917303046d59995",
+        "android_client_info": {
+          "package_name": "com.example.sl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_HbqocTlK9O3PZMdvBfGAwgdeVKQj0Jg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
